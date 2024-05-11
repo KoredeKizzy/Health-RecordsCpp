@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1612187372 source:c:\users\konfi\onedrive\desktop\mr crush\new folder\my program\computerized health records\main.cpp
+	<iostream>
+	<iomanip>
+	<string>
+
+1612883125 source:c:\users\konfi\onedrive\desktop\mr crush\cs\new folder\my program\computerized health records\main.cpp
+	<iostream>
+	"computerizedHealthfunctionHeader.h"
+
+1612883191 c:\users\konfi\onedrive\desktop\mr crush\cs\new folder\my program\computerized health records\computerizedhealthfunctionheader.h
+	<string>
+	<iomanip>
+
+1615279653 source:c:\crush\cs\my program\computerized health records\main.cpp
+	<iostream>
+	"Health.h"
+
+1615279790 c:\crush\cs\my program\computerized health records\health.h
+	<string>
+	<iomanip>
+
